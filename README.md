@@ -15,9 +15,9 @@ Minecraft' a yeni bir metal ekler.
 # Modun çıktısını almak için:
  Windows Komut İstemcisi için:
 - Modun olduğu klasöre gidiniz.
-- Sağ Tık yapıp burda Komut İstemini Çalıştır dedikten sonra
+- Sağ Tık yapıp burda Komut İstemini Çalıştır dedikten sonra,
 - gradlew build yazınız.
 
 MCreator kullanımı için:
-- MCreator' ı açınız.
+- MCreator' ı açınız,
 - Open Workspace' e bastıktan sonra anakinium.mcreator dosyasını seçiniz.
