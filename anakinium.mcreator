@@ -204,6 +204,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "botcraft"
+    },
+    {
+      "name": "Anakiniumcraft",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakiniumcraft"
     }
   ],
   "variable_elements": [],
