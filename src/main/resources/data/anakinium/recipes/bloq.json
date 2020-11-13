@@ -1,0 +1,16 @@
+{
+  "group": "anakinium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "anakinium:anakiniumblogu"
+    }
+  },
+  "result": {
+    "item": "anakinium:anakinium_kulcesi",
+    "count": 9
+  }
+}

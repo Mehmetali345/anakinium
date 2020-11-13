@@ -1,0 +1,36 @@
+{
+  "group": "anakinium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "1": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "2": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "3": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "5": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "6": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "8": {
+      "item": "anakinium:anakinium_kulcesi"
+    }
+  },
+  "result": {
+    "item": "anakinium:anakiniumchestplate_leggings",
+    "count": 1
+  }
+}

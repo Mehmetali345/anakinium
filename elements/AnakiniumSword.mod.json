@@ -1,0 +1,32 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "anakinium_sword",
+    "customModelName": "Normal",
+    "name": "Anakinium Kýlýcý",
+    "specialInfo": [
+      "Kadim metalden dövülmüþ kýlýç."
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 5.0,
+    "enchantability": 20,
+    "damageVsEntity": 14.0,
+    "usageCount": 3256,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AnakiniumKulcesi"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "anakinium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "2": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "3": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "5": {
+      "item": "anakinium:anakinium_kulcesi"
+    }
+  },
+  "result": {
+    "item": "anakinium:anakiniumchestplate_boots",
+    "count": 1
+  }
+}

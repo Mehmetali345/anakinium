@@ -1,0 +1,32 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "axe",
+    "customModelName": "Normal",
+    "name": "Anakinium Balta",
+    "specialInfo": [
+      "Kadim metalden dövülmüþ balta."
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 11.0,
+    "usageCount": 3256,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AnakiniumKulcesi"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

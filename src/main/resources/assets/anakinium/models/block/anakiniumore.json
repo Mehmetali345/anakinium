@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "anakinium:blocks/anakinium_ore",
+    "up": "anakinium:blocks/anakinium_ore",
+    "north": "anakinium:blocks/anakinium_ore",
+    "east": "anakinium:blocks/anakinium_ore",
+    "south": "anakinium:blocks/anakinium_ore",
+    "west": "anakinium:blocks/anakinium_ore",
+    "particle": "anakinium:blocks/anakinium_ore"
+  }
+}

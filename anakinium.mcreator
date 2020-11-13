@@ -1,0 +1,248 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AnakiniumKulcesi",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_kulcesi"
+    },
+    {
+      "name": "Anakiniumblogu",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakiniumblogu"
+    },
+    {
+      "name": "AnakiniumNugget",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_nugget"
+    },
+    {
+      "name": "Anakiniumblogucraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakiniumblogucraft"
+    },
+    {
+      "name": "Anakiniumchestplate",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakiniumchestplate",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Bloq",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloq"
+    },
+    {
+      "name": "AnakiniumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_pickaxe"
+    },
+    {
+      "name": "AnakiniumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_axe"
+    },
+    {
+      "name": "AnakiniumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_sword"
+    },
+    {
+      "name": "AnakiniumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_shovel"
+    },
+    {
+      "name": "AnakiniumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_hoe"
+    },
+    {
+      "name": "AnakiniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_pickaxe_recipe"
+    },
+    {
+      "name": "AnakiniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_axe_recipe"
+    },
+    {
+      "name": "AnakiniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_sword_recipe"
+    },
+    {
+      "name": "AnakiniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_shovel_recipe"
+    },
+    {
+      "name": "AnakiniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinium_hoe_recipe"
+    },
+    {
+      "name": "Mal",
+      "type": "achievement",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mal"
+    },
+    {
+      "name": "Anakiniumore",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakiniumore"
+    },
+    {
+      "name": "Kafalikcraft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kafalikcraft"
+    },
+    {
+      "name": "Goguslukcraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goguslukcraft"
+    },
+    {
+      "name": "Doncraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doncraft"
+    },
+    {
+      "name": "Botcraft",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "botcraft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.anakinium.anakinium_hoe": "Anakinium Çapa",
+      "item.anakinium.anakinium_nugget": "Anakinium Nugget",
+      "block.anakinium.anakiniumore": "Anakiniumore",
+      "item.anakinium.anakiniumchestplate_boots": "Anakinium Ayakkabý",
+      "item.anakinium.anakinium_kulcesi": "Anakinium Külçesi",
+      "item.anakinium.anakinium_sword": "Anakinium Kýlýcý",
+      "item.anakinium.anakinium_shovel": "Anakinium Kürek",
+      "block.anakinium.anakiniumblogu": "Anakiniumblogu",
+      "item.anakinium.anakinium_axe": "Anakinium Balta",
+      "item.anakinium.anakiniumchestplate_helmet": "Anakinium Kafalýk",
+      "item.anakinium.anakinium_pickaxe": "Anakinium Kazma",
+      "advancements.mal.title": "Mal",
+      "item.anakinium.anakiniumchestplate_leggings": "Anakinium Pantolon",
+      "item.anakinium.anakiniumchestplate_chestplate": "Anakinium Göðüslük",
+      "advancements.mal.descr": "Kadim metali boþa harcadýn."
+    }
+  },
+  "workspaceSettings": {
+    "modid": "anakinium",
+    "modName": "Anakinium",
+    "version": "0.6.0",
+    "description": "Yeni metaller ekler.",
+    "author": "Mehmet Ali",
+    "websiteURL": "http://mehmetali345.ml",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mehmetali345.anakinium",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "anakinium:blocks/anakiniumblogu",
+    "up": "anakinium:blocks/anakiniumblogu",
+    "north": "anakinium:blocks/anakiniumblogu",
+    "east": "anakinium:blocks/anakiniumblogu",
+    "south": "anakinium:blocks/anakiniumblogu",
+    "west": "anakinium:blocks/anakiniumblogu",
+    "particle": "anakinium:blocks/anakiniumblogu"
+  }
+}

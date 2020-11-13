@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="anakinium"
+version="0.6.0"
+displayName="Anakinium"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="http://mehmetali345.ml"
+authors="Mehmet Ali"
+description='''
+Yeni metaller ekler.
+'''
+
+[[dependencies.anakinium]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

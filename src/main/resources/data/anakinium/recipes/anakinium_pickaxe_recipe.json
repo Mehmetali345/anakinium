@@ -1,0 +1,30 @@
+{
+  "group": "anakinium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "1": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "2": {
+      "item": "anakinium:anakinium_kulcesi"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "anakinium:anakinium_pickaxe",
+    "count": 1
+  }
+}
