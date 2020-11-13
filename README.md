@@ -10,7 +10,7 @@ Minecraft' a yeni bir metal ekler.
 # Modu düzenledikten sonra çalıştırmak için gerekenler
 
 - Minecraft 1.15.2
-- 1.15.2 Forge 31.0.2
+- 1.15.2 Forge 31.2.0
 
 # Modun çıktısını almak için:
  Windows Komut İstemcisi için:
