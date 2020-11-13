@@ -4,7 +4,7 @@ Minecraft' a yeni bir metal ekler.
 # Modu düzenlemek için gerekenler
 
 - Java JDK 8
-- Herhangi bir java editörü
+- Herhangi bir java kod editörü
 - Java JRE 8
 
 # Modu düzenledikten sonra çalıştırmak için gerekenler
